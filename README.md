@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ammarahasan
-- 👀 I’m interested in JavaScript, Express js, Python
-- 🌱 I’m currently learning React
+- 👀 I’m interested in PHP laravel, JavaScript, Express js, Python
+- 🌱 I’m currently learning Laravel
 
 <!---
 ammarahasan/ammarahasan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
